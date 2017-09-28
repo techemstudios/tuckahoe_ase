@@ -52,7 +52,7 @@ Ask for five volunteers. Give each volunteer a big binary flashcard (dark side o
 
 ### Computational Thinking  
 
-The use of this concept not only involves computer science/programming, but to a range of subjects; specifically for this class, designing games.  
+The use of this concept not only involves computer science/programming, but to a range of subjects; specifically for this class, designing games. When Hyperpad is underway, discuss with the class that everything in the game is an object. Relate to real world objects. Objects are a part of larger classes. Some objects will have similar properties, so we can reuse them (or duplicate) to keep from starting whole objects from scratch. Objects can be a part of the same class, only differ in small characteristics.  
 
 * Decompose  
   - break a  problem into smaller parts  
