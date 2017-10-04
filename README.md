@@ -5,11 +5,11 @@
 
 2:20 pm - 3:30 pm, 10/04 - 11/08 (11/15 makeup day) --6 weeks total  
 
-This class will be treated as Game Design ASE, with a focus on computer science/programming concepts.  
+This class will be treated as Game Design ASE, with a focus on computer science/programming concepts. Object Oriented Programming will be a major focus. This is directly related to objects in Hyperpad and game design in general.  
 
 ## Day One  
 
-Since we have a range of grades (3-5). The first day will be an assessment for which direction the class will go in. Due to logistics, the *plugged in* content will be with the iPads.  
+Since we have a range of grades (3-5). The first day will be an assessment for which direction the class will go in. Due to logistics, the *plugged in* content will be through iPads.  
 
 ### Introductions  
 *10 min*  
@@ -38,6 +38,7 @@ Turn left 90 degrees
 Go forward 5 steps  
 etc.  
 ```  
+
 Ask the class, which group was more efficient.  
 
 ### How Computers Manage Information   
@@ -91,3 +92,8 @@ Already have created games with assets.
 
 * Object Collisions  
   - between character and object  
+
+
+### Object Oriented Programming  
+
+As we talked about decomposing (divide and conquer) and generalization (seeing the big picture) in computational thinking, object oriented in a nutshell is to look at the interaction of simple *objects*, as being part of a complex system. Each object does something, it has its own set of properties and attributes (things it can do) and belongs to a *Class*. Let's look at an example of a dog named, Scrappy. We can say, Scrappy is a specific individual in a larger class, Dogs. In Object Oriented terms, Scrappy is a particular *instance* of the dog class. Since Scrappy is part of the dog class, we can assume certain things about him. Scrappy most likely has four legs, a tail, a wet nose, an age, and can bark. Now take a dog named, Lassy. She will have similar characteristics, but may only differ in behavior, size, or color. So, every object is an instance of some class. The class describes the general characteristics (or properties) an instance will have. The instance of the class will hold more specific properties and attributes.
